@@ -1,0 +1,2 @@
+RunTime,Model,R2,MAE,Features,Model_File
+2026-03-25 20:50,XGBoost,0.9117,15988.97,84,xgb_model_r2_0.912.pkl

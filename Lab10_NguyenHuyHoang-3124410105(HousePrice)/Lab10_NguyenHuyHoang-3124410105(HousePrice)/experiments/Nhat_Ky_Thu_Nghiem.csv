@@ -1,0 +1,5 @@
+Version,R2_Score,MAE
+v1_Ridge,0.8474,21570.42
+v2_RandomForest,0.9066,15799.29
+v3_GradientBoost,0.914,14945.67
+v4_XGBoost,0.9099,15838.09
